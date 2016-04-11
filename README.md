@@ -1,6 +1,6 @@
 <h2>Sarah Crawley</h2>
 
-E-mail:	sarah.crawley6@gmail.com | [Github] (https://twitter.com/sarah_crawley) | [Twitter] (https://github.com/sara6?tab=repositories)
+E-mail:	sarah.crawley6@gmail.com | [Github] (https://github.com/sara6?tab=repositories) | [Twitter] (https://twitter.com/sarah_crawley) 
 
 <h4>INTRODUCTION</h4>
 
