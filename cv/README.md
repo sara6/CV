@@ -1,12 +1,12 @@
-<h2>**Sarah Crawley**</h2>
+<h2>Sarah Crawley</h2>
 
-E-mail:	sarah.crawley6@gmail.com | Telephone: +44 (0) 789 422 5056 | Github:	https://github.com/sara6
+E-mail:	sarah.crawley6@gmail.com | Github:	https://github.com/sara6
 
-<h4>**INTRODUCTION**</h4>
+<h4>INTRODUCTION</h4>
 
 I'm a junior developer that has recently completed Makers Academy, a 4 month, intensive training programme for junior developers moving into coding from other sectors. Prior to embarking on my career in programming, I have five years experience as a senior project manager in healthcare. Initially inspired to turn to coding by my experience of building a website for a surf house, I’m now looking to build a career in software development- fullstack or front end.
 
-<h4>**SKILLS**</h4>
+<h4>SKILLS</h4>
 
 **Web development**
 
@@ -22,7 +22,7 @@ I'm a junior developer that has recently completed Makers Academy, a 4 month, in
 
 **Getting stuff done**
 
-_Code:_ In a recent project (The Gnar app and Gnar API) we were able to ensure that all the features we had set out at the beginning of the design stage were delivered. Whilst this was mostly to do with working with three other awesome people, it was through regular stand-ups and Waffle reviews that we were focused and organised.
+_Code:_ In a recent project [The app of Gnar] (https://github.com/sara6/The-app-of-GNAR) we were able to ensure that all the features we had set out at the beginning of the design stage were delivered. Whilst this was mostly to do with working with three other awesome people, it was through regular stand-ups and Waffle reviews that we were focused and organised.
 
 _Work:_ Getting stuff done is what has endeared me most to the organisations I have previously worked for. I have found that being clear and direct as well as emphatetic has helped mitigate breakdowns in communication and wider project issues.
 
@@ -36,7 +36,7 @@ _Work:_ Communication was the key skill in my previous role. I was the lead NHS 
 
 _Non-code or work:_ I love surfing and my communication is concise and clear when someone drops in on me (takes a wave that I’ve waited/ queued for in a line up).
 
-<h4>**EXPERIENCE**</h4>
+<h4>EXPERIENCE</h4>
 
 **Position: Project Manager | Sept 2013 – Nov 2015 | The Priory Group, London**
 
