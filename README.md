@@ -58,7 +58,7 @@ _Non-code or work:_ I love surfing and my communication is concise and clear whe
 * Managed operational running of seven health clinics across London
 * Developed and setup a clinical database system which was rolled out across the department
 * Project managed the set-up of two integrated healthcare services
-* Set-up the first sexual health service in Feltham Young Offenders Institute
+* Set-up the sexual health service in Feltham Young Offenders Institute
 
 
 **Position: Projects Co-ordinator | Sep 2011 – Jan 2012	| NHS, South West London**
