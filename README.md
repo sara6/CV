@@ -1,6 +1,6 @@
 <h2>Sarah Crawley</h2>
 
-E-mail:	sarah.crawley6@gmail.com | [Github:]	(https://github.com/sara6?tab=repositories)
+E-mail:	sarah.crawley6@gmail.com | [Github] | [Twitter] (https://twitter.com/sarah_crawley)	(https://github.com/sara6?tab=repositories)
 
 <h4>INTRODUCTION</h4>
 
@@ -19,6 +19,12 @@ I'm a junior developer that has recently completed Makers Academy, a 4 month, in
 * Version control with Git and Github
 * RESTful APIs
 * Good understanding of OOP principles such as SOLID and DRY
+
+| Project  | Summary              | Technologies used  |
+| :----- |:------------------   | :--- |
+|[Salty Daze] https://github.com/sara6/The-app-of-GNAR  | De-coupled Rails-AngularJS web app designed to help surfers find the optimum surf spot.Accesses realtime surf-weather stats alongside live webcam and image streams of beaches around the world.Designed and developed in a 2 week sprint for our final project at Makers Academy.     | [Rails backend] (https://github.com/sara6/GNAR-api), Marine Weather API, Open Weather API, Instagram API, Google Maps API, Google Geolocation API, and Angular front end. Tested with Rspec, Karma and Protractor|
+| [My Vaccination Card] (https://github.com/sara6/my_vaccination_card)     | A coupled Rails and AngularJS app allowing users to digitally store their vaccination record using data from the World Health Organisation. Designed and developed as part a 2 day hackathon.     |   Rails, AngularJS, tested with Rspec Capybara |
+| [Weather- Portland] (https://github.com/sara6/weather_portland) | See the temperature and rainfall between 1973 and 2014. |   d3js, JavaScript, HTML, CSS |
 
 **Getting stuff done**
 
